@@ -1,0 +1,2 @@
+# magensta
+This project is a desktop application used for managing different services in the hotel like storing and entering customers' details, Rooms, Services, Payments, Bookings. It manages all the information about the Hotel, Customers, Bookings, service availability. The project is built on an administrative end. Hence only the administrator can be guaranteed access. The purpose of the project is to create an application which can reduce the manual work for managing the hotel details and make it accessible any time without any need for the internet.
